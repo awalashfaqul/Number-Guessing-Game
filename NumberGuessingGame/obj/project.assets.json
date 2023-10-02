@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 03/NumberGuessingGame/NumberGuessingGame/NumberGuessingGame/NumberGuessingGame.csproj",
+      "projectUniqueName": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 03/NumberGuessingGame/NumberGuessingGame/Number-Guessing-Game/NumberGuessingGame/NumberGuessingGame.csproj",
       "projectName": "NumberGuessingGame",
-      "projectPath": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 03/NumberGuessingGame/NumberGuessingGame/NumberGuessingGame/NumberGuessingGame.csproj",
+      "projectPath": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 03/NumberGuessingGame/NumberGuessingGame/Number-Guessing-Game/NumberGuessingGame/NumberGuessingGame.csproj",
       "packagesPath": "/Users/ashfaqul/.nuget/packages/",
-      "outputPath": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 03/NumberGuessingGame/NumberGuessingGame/NumberGuessingGame/obj/",
+      "outputPath": "/Users/ashfaqul/Desktop/NET-23 Ashfaqul/C-sharp/Lab 03/NumberGuessingGame/NumberGuessingGame/Number-Guessing-Game/NumberGuessingGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ashfaqul/.nuget/NuGet/NuGet.Config"

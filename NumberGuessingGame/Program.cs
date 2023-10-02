@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* NAME: ABU LABIB MOHAMMED ASHFAQUL AWAL */
+/* CLASS: NET-23 */
+/* SCHOOL: CHAS ACADEMY, STOCKHOLM */
+
+
+using System;
 
 namespace NumberGuessingGame
 {
@@ -25,7 +30,7 @@ namespace NumberGuessingGame
 
                 int userInput = int.Parse(Console.ReadLine());
 
-                bool isCorrect = CheckGuess(userInput);
+                bool isCorrect = CheckGuess(userInput); // Calling separatae function/method to check the user's guess
 
                 // If the guess is right, the game will exit loop here
                 if (isCorrect)
