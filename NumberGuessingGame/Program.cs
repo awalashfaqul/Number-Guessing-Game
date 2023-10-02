@@ -52,7 +52,7 @@ namespace NumberGuessingGame
             }
 
 
-            // Creating a separate function/method to check if the number is guessed right or not
+            // Creating a separate function/method to check if the number is correctly guessed or not
             static bool CheckGuess(int guessedNumber)
             {
                 // Here generating a random number between 1 and 20
